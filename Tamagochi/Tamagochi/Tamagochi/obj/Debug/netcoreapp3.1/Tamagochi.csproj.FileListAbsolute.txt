@@ -1,0 +1,13 @@
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.exe
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.deps.json
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.runtimeconfig.json
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.runtimeconfig.dev.json
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.dll
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.pdb
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.csprojAssemblyReference.cache
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.AssemblyInfo.cs
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.dll
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.pdb
+C:\Users\ivan\source\repos\hello-world\Tamagochi\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.genruntimeconfig.cache
